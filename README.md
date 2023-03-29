@@ -21,7 +21,7 @@ As an employee with a busy schedule, I want to add important events to a daily p
 
 ## Deployment
 
-The application is deployed at [live URL](https://github.com/Ishaval/challenge-5.git).
+The application is deployed at [live URL](ishaval.github.io/challenge-5/).
 
 ## Installation
 
